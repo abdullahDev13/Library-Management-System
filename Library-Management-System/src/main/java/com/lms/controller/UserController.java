@@ -1,4 +1,4 @@
-package com.lms.contoller;
+package com.lms.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

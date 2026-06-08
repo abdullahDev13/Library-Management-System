@@ -1,4 +1,4 @@
-package com.lms.contoller;
+package com.lms.controller;
 
 import java.util.List;
 
